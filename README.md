@@ -47,4 +47,6 @@ Tic-Tac-Toe-Game/
    ```bash
    git clone https://github.com/Sanika-Patil1607/Tic-Tac-Toe-Game.git
 2.Open the project folder.
+ <br>
+
 3.Run index.html in your browser.
